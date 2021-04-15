@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_T1_Pinos", "Examen_T1_Pinos\Examen_T1_Pinos.csproj", "{393D446E-40EC-4A94-A3ED-89E43CE074C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_T1_Pinos.Pruebas", "Examen_T1_Pinos.Pruebas\Examen_T1_Pinos.Pruebas.csproj", "{4E6DA5C6-9CB5-4D3E-905C-40D643706909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393D446E-40EC-4A94-A3ED-89E43CE074C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393D446E-40EC-4A94-A3ED-89E43CE074C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393D446E-40EC-4A94-A3ED-89E43CE074C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393D446E-40EC-4A94-A3ED-89E43CE074C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6DA5C6-9CB5-4D3E-905C-40D643706909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6DA5C6-9CB5-4D3E-905C-40D643706909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6DA5C6-9CB5-4D3E-905C-40D643706909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6DA5C6-9CB5-4D3E-905C-40D643706909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B59CE4-EE41-4576-B5FB-3A35EC36A264}
+	EndGlobalSection
+EndGlobal

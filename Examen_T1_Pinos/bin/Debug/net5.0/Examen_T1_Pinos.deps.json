@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Examen_T1_Pinos/1.0.0": {
+        "runtime": {
+          "Examen_T1_Pinos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen_T1_Pinos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\bin\Debug\net5.0\Examen_T1_Pinos.exe
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\bin\Debug\net5.0\Examen_T1_Pinos.deps.json
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\bin\Debug\net5.0\Examen_T1_Pinos.runtimeconfig.json
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\bin\Debug\net5.0\Examen_T1_Pinos.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\bin\Debug\net5.0\Examen_T1_Pinos.dll
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\bin\Debug\net5.0\ref\Examen_T1_Pinos.dll
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\bin\Debug\net5.0\Examen_T1_Pinos.pdb
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.dll
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\ref\Examen_T1_Pinos.dll
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.pdb
+C:\Users\Anthony\source\repos\Examen_T1_Pinos\Examen_T1_Pinos\obj\Debug\net5.0\Examen_T1_Pinos.genruntimeconfig.cache
