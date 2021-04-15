@@ -21,7 +21,7 @@ namespace Examen_T1_Pinos
             var player = jugadores_pinos.Where(o => o.id == id).FirstOrDefault();
             if (num == 10)
             {
-                player.puntaje=player.puntaje+num.
+                player.puntaje=player.puntaje+num;
             }
             player.puntaje = player.puntaje + num;
         }
